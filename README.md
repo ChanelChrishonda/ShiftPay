@@ -37,4 +37,4 @@ No accounts, no server. Hours stay on your phone. Backup = History tab > Save ba
 - Social Security yearly wage cap
 - Semi-monthly pay periods
 
-Built with help from Claude (AI). Estimates only, not tax advice.
+Javascript section built with help from Claude (AI) . Estimates only, not tax advice.
