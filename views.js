@@ -1,7 +1,7 @@
 // views.js
 // Builds each tab's HTML. Plain template strings - no framework.
 // TODO: this file is getting long. Split Setup into its own file next time.
-// Removed monthly and semi monthly from the pay frequency list in line 226, does not auto adjust pay calendar. 
+// Removed monthly and semi monthly from the pay frequency list in line 227, does not auto adjust pay calendar. 
 
 /* ===================== RENDER ===================== */
 const main=document.getElementById("main");
